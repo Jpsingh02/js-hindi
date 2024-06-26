@@ -6,7 +6,7 @@
 
 // let score = null // 0 (object)
 
-// let score = undefined // NaN (undefined)
+// let score = undefined // NaN => Not a Number (undefined)
 
 // let score = true // 1 (boolean)
 
