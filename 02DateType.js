@@ -24,7 +24,10 @@ Data Types
 3. String
 4. Boolean => Yes or No (true or False)
 5. null => Standalone Value  (Empty)
-6. 
+6. undefind =>
+7. symbol => unique
+8. object  
+
 
 
 
