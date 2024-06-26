@@ -31,4 +31,4 @@ Data Types
 
 */
 
-console.log(typeof "Jitender"); console.log(typeof null);
+console.log(typeof "Jitender"); console.log(typeof null); console.log(typeof undefined);
