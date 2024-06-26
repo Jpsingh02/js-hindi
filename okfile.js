@@ -17,7 +17,11 @@ let accountState; not working yet
 
 
 /*
-comments
+Comment 
+Prefer not use var
+bacause of issue in block scope and functional scope
 */
+
+
 console.log (accountId);
 console.table([accountId, accountEmail, accountPassword, accountCity,]);
