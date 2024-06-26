@@ -1,6 +1,8 @@
-//let score = 33
+  // let score = 33 // Number
 
-let score = "33"
+// let score = "33" // String
+
+// let score = "33abc" // NaN
 
 console.log(typeof score);
 console.log(typeof (score));
