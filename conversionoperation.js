@@ -8,6 +8,10 @@
 
 // let score = undefined // NaN
 
+// let score = true // 1 (boolean)
+
+// let score = false // 0 (boolean)
+
 console.log(typeof score);
 console.log(typeof (score));
 
