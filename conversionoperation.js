@@ -70,12 +70,25 @@
 // Strat Here
 
 
+// Code type 1 /********* */
+
+// let someNumber = 33
+
+// let stringNumber = String(someNumber)
+// console.log(stringNumber); // to See the NUmber "Only Number"
+
+//########################################################################
+
+
+
+
+// code type 2 /********* */
 
 let someNumber = 33
 
 let stringNumber = String(someNumber)
 console.log(stringNumber);
-
+console.log(typeof stringNumber); // To Find Type of someNumber (String)
 
 
 
