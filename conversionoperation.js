@@ -140,7 +140,17 @@ let str3 = str1 + str2
 console.log(str3);
 
 
+// This type of code Not valid for good code writing experiments
 
+
+// This Code
+
+// console.log("1" + 2);
+// console.log(1 + "2");
+// console.log("1" + 2 + 2);
+// console.log(1 + 2 + "2");
+
+// console.log(3 + 4 * 5 % 3); Only for Quetion Paper not for real Life Experiments
 
 
 
