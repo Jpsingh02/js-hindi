@@ -1,3 +1,7 @@
+// Start Here
+// Live Testing
+
+
 // let score = 33 // 33 (Number)
 
 // let score = "33" // 33 (String)
@@ -14,13 +18,30 @@
 
 // let score = "Jitender" // NaN (String)
 
+
+//------------
+
 // Remove from comment to fine the answer//
 
+//-----------==
+// Code
+
+// let score = ""
 // console.log(typeof score);
 // console.log(typeof (score));
 
 // let valueInNumber = Number(score)
 // console.log(valueInNumber);
+
+
+// -------------
+// End Here
+//****************** */
+
+
+
+// Start Here
+// Live Testing
 
 // let isLoggedIn = 1 // true (boolean)
 
@@ -30,15 +51,32 @@
 
 // let isLoggedIn = "Jitender" // true (boolean)
 
-let isLoggedIn = 1
-
-let booleanIsloggedIn = Boolean(isLoggedIn)
-console.log(booleanIsloggedIn);
+//----------
+// Code
 
 
+//  let isLoggedIn = 1
+
+//  let booleanIsloggedIn = Boolean(isLoggedIn)
+//  console.log(booleanIsloggedIn);
+
+
+
+//---------
+// End Here
+//****************** */
+
+
+// Strat Here
 
 
 
 
 
 
+
+
+
+//---------
+// End Here
+//****************** */
