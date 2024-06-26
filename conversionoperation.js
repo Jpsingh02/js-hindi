@@ -98,3 +98,34 @@
 
 //######################################################******(OPERATION)******###############################################################
 
+// Start Here
+
+let value = 3
+
+let negvalue = -value
+console.log(negvalue);
+
+// TO Find Negitive value 
+
+console.log(2+2);
+console.log(2-2);
+console.log(2*2);
+console.log(2**2);
+console.log(2/2);
+console.log(2%2);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
