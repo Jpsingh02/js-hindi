@@ -133,11 +133,13 @@
 
 //---------------------------
 
-let str1 = "Hello"
-let str2 = " Jitender"
+// let str1 = "Hello"
+// let str2 = " Jitender"
 
-let str3 = str1 + str2
-console.log(str3);
+// let str3 = str1 + str2
+// console.log(str3);
+
+//-------------------------------
 
 
 // This type of code Not valid for good code writing experiments
@@ -157,7 +159,9 @@ console.log(str3);
 
 
 
-
+// console.log(true); // Answer True
+// console.log(+true); // answer 1
+console.log(+"");   // answer 0
 
 
 
