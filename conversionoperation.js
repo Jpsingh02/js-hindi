@@ -161,7 +161,28 @@
 
 // console.log(true); // Answer True
 // console.log(+true); // answer 1
-console.log(+"");   // answer 0
+// console.log(+"");   // answer 0
+
+// let num1, num2, num3
+
+// num1 = num2 = num3 = 2 + 2 
+
+// let gameCounter = 100
+// gameCounter++;
+// console.log(gameCounter);
+
+
+// Read about Prefix and Postfix
+
+//  let gameCounter = 100
+//  ++gameCounter;
+//  console.log(gameCounter);
+
+//
+// Conversion and OPoerations Done Many more Later On
+
+//#########################################################################################################
+
 
 
 
