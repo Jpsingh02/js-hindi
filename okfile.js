@@ -10,6 +10,10 @@ accountEmail = "jit@gmail.com"
 accountPassword = "457854"
 accountCity = "jaipur"
 
+
+/*
+let accountState; not working yet
+*/
 /*
 comments
 */
