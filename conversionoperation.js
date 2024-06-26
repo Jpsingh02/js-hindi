@@ -84,23 +84,17 @@
 
 // code type 2 /********* */
 
-let someNumber = 33
+// let someNumber = 33
 
-let stringNumber = String(someNumber)
-console.log(stringNumber);
-console.log(typeof stringNumber); // To Find Type of someNumber (String)
-
-
-
-
-
-
-
-
-
+//  let stringNumber = String(someNumber)
+//  console.log(stringNumber);
+//  console.log(typeof stringNumber); // To Find Type of someNumber (String)
 
 
 
 //---------
 // End Here
 //****************** */
+
+//######################################################******(OPERATION)******###############################################################
+
