@@ -4,6 +4,10 @@
 
 // let score = "33abc" // NaN
 
+// let score = null // 0
+
+// let score = undefined // NaN
+
 console.log(typeof score);
 console.log(typeof (score));
 
