@@ -22,6 +22,14 @@
 // let valueInNumber = Number(score)
 // console.log(valueInNumber);
 
+// let isLoggedIn = 1 // true (boolean)
+
+// let isLoggedIn = 0 // false (boolean)
+
+// let isLoggedIn = "" // false (boolean)
+
+// let isLoggedIn = "Jitender" // true (boolean)
+
 let isLoggedIn = 1
 
 let booleanIsloggedIn = Boolean(isLoggedIn)
