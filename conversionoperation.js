@@ -145,12 +145,15 @@ console.log(str3);
 
 // This Code
 
-// console.log("1" + 2); answer 12 (First String + Second Number)
-// console.log(1 + "2"); Answer will 12 (First Number +  Second String )
-// console.log("1" + 2 + 2); First String will treat as  all string
-// console.log(1 + 2 + "2"); First Numeric Number will Plus second will add with first Number
+// console.log("1" + 2); ######  Answer 12 (First String + Second Number)
 
-// console.log(3 + 4 * 5 % 3); Only for Quetion Paper not for real Life Experiments
+// console.log(1 + "2"); ######   Answer will 12 (First Number +  Second String )
+
+// console.log("1" + 2 + 2); ###### First String will treat as  all string
+
+// console.log(1 + 2 + "2"); ###### First Numeric Number will Plus second will add with first Number
+
+// console.log(3 + 4 * 5 % 3); ###### Only for Quetion Paper not for real Life Experiments
 
 
 
