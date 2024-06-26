@@ -100,19 +100,56 @@
 
 // Start Here
 
-let value = 3
+// let value = 3
 
-let negvalue = -value
-console.log(negvalue);
+// let negvalue = -value
+// console.log(negvalue);
 
-// TO Find Negitive value 
+// TO Find Negitive value (Learn about Operations Extra )
 
-console.log(2+2);
-console.log(2-2);
-console.log(2*2);
-console.log(2**2);
-console.log(2/2);
-console.log(2%2);
+// console.log(2+2);
+// console.log(2-2);
+// console.log(2*2);
+// console.log(2**2);
+// console.log(2/2);
+// console.log(2%2);
+
+//--------------------------
+
+// let str1 = "2"
+// let str2 = " 3"
+
+// let str3 = str1 + str2
+// console.log(str3);
+
+//--------------------------
+
+
+// let str1 = "Hello"
+// let str2 = " Jitender"
+
+// let str3 = str1 + str2
+// console.log(str3);
+
+//---------------------------
+
+let str1 = "Hello"
+let str2 = " Jitender"
+
+let str3 = str1 + str2
+console.log(str3);
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
