@@ -1,4 +1,4 @@
-  // let score = 33 // 33 (Number)
+// let score = 33 // 33 (Number)
 
 // let score = "33" // 33 (String)
 
@@ -13,6 +13,8 @@
 // let score = false // 0 (boolean)
 
 // let score = "Jitender" // NaN (String)
+
+// Remove from comment to fine the answer//
 
 console.log(typeof score);
 console.log(typeof (score));
