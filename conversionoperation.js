@@ -16,8 +16,21 @@
 
 // Remove from comment to fine the answer//
 
-console.log(typeof score);
-console.log(typeof (score));
+// console.log(typeof score);
+// console.log(typeof (score));
 
-let valueInNumber = Number(score)
-console.log(valueInNumber);
+// let valueInNumber = Number(score)
+// console.log(valueInNumber);
+
+let isLoggedIn = 1
+
+let booleanIsloggedIn = Boolean(isLoggedIn)
+console.log(booleanIsloggedIn);
+
+
+
+
+
+
+
+
