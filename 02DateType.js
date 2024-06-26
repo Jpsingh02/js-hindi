@@ -13,7 +13,7 @@ console.log("Jitender")
 
 let name = "Jitender" // String Data Types
 let age = 36 // Value Data Types
-let isLoggedIn = true or False // Boolean Data Type
+let isLoggedIn = true // Boolean Data Type
 
 
 /*
@@ -29,6 +29,6 @@ Data Types
 8. object  
 
 
-
-
 */
+
+console.log(typeof "Jitender"); console.log(typeof null);
